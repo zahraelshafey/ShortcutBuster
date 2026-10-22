@@ -44,21 +44,7 @@ A classifier trained to separate **waterbirds** from **landbirds** may simply lo
 | Implementation | Planned |
 | Testing & QA | Planned |
 | Final Presentation & Reports | Planned |
-
-## Repository Structure
-
-```
-ShortcutBuster/
-├── README.md
-├── docs/        # Project documentation (PDFs, Gantt chart)
-├── src/         # Source code
-├── tests/       # Test cases and scripts
-└── assets/      # Images and diagrams
-```
-
-## Documentation
-
-Project documents are available in the [`docs/`](docs/) folder.
+ 
 
 ## Team
 
